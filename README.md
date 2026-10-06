@@ -2,7 +2,7 @@
 # 🎓 AI-Powered Real-Time Lecture Analysis & Personalised Study Notes Generator
 
 An AI-powered study assistant that analyzes lectures in real time and automatically generates personalised study notes for students.
-
+![AI-powered-real-time-lecture-analysis-and-personalised-study-notes-generator](https://github.com/madhuri81-web/AI-powered-real-time-lecture-analysis-and-personalised-study-notes-generator/blob/8ff996a9e6d28ecaf33ecb4d2fa98d3abaccb5c2/screenshots/pic1.jpeg)
 ## 📌 Overview
 
 Students often find it difficult to take detailed notes while simultaneously listening to a lecture.
