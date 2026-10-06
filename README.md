@@ -6,7 +6,7 @@ An AI-powered study assistant that analyzes lectures in real time and automatica
 
 ![AI-powered-real-time-lecture-analysis-and-personalised-study-notes-generator](https://github.com/madhuri81-web/AI-powered-real-time-lecture-analysis-and-personalised-study-notes-generator/blob/62c95a6b3ab7614f4ba1bfbcb56ddbe9aef360e8/screenshots/pic2.jpeg)
 
-![AI-powered-real-time-lecture-analysis-and-personalised-study-notes-generator]()
+![AI-powered-real-time-lecture-analysis-and-personalised-study-notes-generator](https://github.com/madhuri81-web/AI-powered-real-time-lecture-analysis-and-personalised-study-notes-generator/blob/0a2c3e6303feff2d7c7abe49d6bf988b7dae60ae/screenshots/pic3.jpeg)
 ## 📌 Overview
 
 Students often find it difficult to take detailed notes while simultaneously listening to a lecture.
